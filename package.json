@@ -1,14 +1,13 @@
 {
   "name": "10-kilometres",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "start": "vue-cli-service serve"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "@trevoreyre/autocomplete-vue": "^2.2.0",
     "leaflet": "^1.7.1",
     "vue": "^2.6.12"
   },
